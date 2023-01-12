@@ -3,7 +3,8 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# Writing About Literature and Culture: Zora Neale Hurston
+# Writing About Literature and Culture: </br>
+# Zora Neale Hurston
 ## Spring 2023
 ## Professor Lindsay Thomas
 <lindsaythomas@miami.edu>, <lxt308@miami.edu>
