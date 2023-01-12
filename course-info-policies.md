@@ -111,6 +111,9 @@ I will track attendance every day so that I can help you keep up with the class 
 
 **Important note in case it needs to be said: I do not want you to come to class if you feel sick, if you are experiencing even mild cold- or flu-like symptoms, if you have been in close contact with someone who tests positive for COVID-19, or if you test positive for COVID-19.** Just stay home, take care of yourself, and do not run the risk of infecting others. If you find that you are ill or will have to quarantine for an extended period (i.e., more than 2-3 classes), please talk to me and we will come up with a way to catch you up. Your grade will not be negatively affected due to illness or quarantine.
 
+## Public Nature of Writing
+Since academic writing is writing directed toward an audience, you should consider the writing that you do in this course to be “public,” that is, as writing that others will read. You will be asked to read and comment on the work of your class colleagues, and they will be asked to read and comment on yours. Additionally, I like to use stellar examples of student writing in class. Please fill out our class’s first day survey to indicate whether you give me permission to use your writing in class. I will use your writing – with your permission and anonymously, if you prefer – ONLY to demonstrate fantastic examples of what we’re doing as a class. If you’ve given me permission to use your writing in class but there is some writing that you would rather be of a less public nature, you can note it on the paper and/or send me an e-mail.
+
 ## Course Digital Infrastructure
 We will make use of multiple online systems and programs in this course: a course site, a shared Google drive folder, a Blackboard site, and Zoom.
 
