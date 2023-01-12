@@ -40,8 +40,8 @@ I reserve the right to change the course calendar as needed; adequate advance no
     * **Writing Project 1: Close Reading Essay due**
 
 ## Week 6
-* Monday, February 20: Selections from Zora Neale Hurston, *Mules and Men* (1935)
-* Wednesday, February 22: Zora Neale Hurston, “The Characteristics of Negro Expression” (1934)
+* Monday, February 20: Valerie Boyd, Ch. 25 “Mules, Men, and Maroons,” from *Wrapped in Rainbows: The Life of Zora Neale Hurston* (2003)
+* Wednesday, February 22: Zora Neale Hurston, *Mules and Men* (1935), “Foreword” (by Arnold Rampersand), “Introduction,” Ch 1 (pg. xv-17)
 * Friday, February 24: Lynée Lewis Gaillet & Jessica Rose, “At Work in the Archives: Place-Based Research and Writing,” from *Writing Spaces* Vol. 4 (2022)
     * **Journal entry 4 due**
 
