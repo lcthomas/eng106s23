@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Final Portfolio
+title: Final Portfolio and Self-Assessment
 nav_order: 6
 parent: Assignments
 ---
 # Final Portfolio
 * **Due: Monday, May 3**
-* **Length of assignment**
 * **MLA or Chicago citation style**
 * **Turn in via Blackboard**
 
-## Heading 1
+More coming soon!
 
 
 ## Final Self-Assessment
