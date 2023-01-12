@@ -19,4 +19,4 @@ The final self-assessment is about documenting and reflecting on the work you've
 2. The grade you believe you earned in this class (including +/-), based on how you fulfilled your contract.
 3. A brief discussion of the following question: What is at least 1 thing you've learned in this course that you will carry forward with you?
 
-If you would like comments from me on your final project, please indicate that somewhere in your final project/self-assessment.
+If you would like comments from me on your final portfolio, please indicate that somewhere in your final portfolio/self-assessment.
