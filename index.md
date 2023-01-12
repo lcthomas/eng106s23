@@ -3,8 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# Writing About Literature and Culture: </br>
-# Zora Neale Hurston
+# Writing About Literature and Culture: <br/> Zora Neale Hurston
 ## Spring 2023
 ## Professor Lindsay Thomas
 <lindsaythomas@miami.edu>, <lxt308@miami.edu>
@@ -14,7 +13,8 @@ Section F, MWF 1:25-2:15 pm
 Dooly Memorial 107
 
 ## Office Hours
-MW, 1:25-2:15 PM, and by appointment, Ashe 307
+MW, 1:25-2:15 PM, and by appointment
+Ashe 307
 
 ## Course Description
 In this course, you will develop skills in textual analysis, written argument, and academic research within the context of literary and cultural studies. We will engage with textual, visual, and narrative materials, analyzing them individually and in conversation. The skills you will learn in textual analysis, academic argument, and research practices are foundational to your academic success at UM.
