@@ -92,7 +92,7 @@ Finally, although I like to build in flexibility if you need it, the cumulative 
 ## Participation
 I do not explicitly grade participation in this course (i.e. “participation = 20% of final grade”), but I will take account of your reading and course engagement through our class discussions, journal entries, and related activities. As a reminder, all grading contracts in this class require you to:
 
-    Come to class having completed any assigned writing and/or reading and prepared to discuss this writing and/or reading. Participate actively in class activities and discussions, making observations and asking questions that help the class think together.
+"Come to class having completed any assigned writing and/or reading and prepared to discuss this writing and/or reading. Participate actively in class activities and discussions, making observations and asking questions that help the class think together."
 
 There are many ways to participate in class. Just a few of them are:
 
