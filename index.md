@@ -9,11 +9,11 @@ nav_order: 1
 <lindsaythomas@miami.edu>, <lxt308@miami.edu>
 
 ## Course Info
-Section F, MWF 1:25-2:15 pm<br/>
+Section F, MWF 1:25-2:15 pm <br/>
 Dooly Memorial 107
 
 ## Office Hours
-MW, 2:30-4:00 pm, and by appointment<br/>
+MW, 2:30-4:00 pm, and by appointment <br/>
 Ashe 307
 
 ## Course Description
