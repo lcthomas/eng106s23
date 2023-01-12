@@ -6,9 +6,14 @@ parent: Assignments
 ---
 # Peer Review Workshops
 {: .no_toc }
-* **Peer Review Workshop Writing Project 1: Monday, Feb 13**
-* **Peer Review Workshop Writing Project 2: Wednesday, March 8**
-* **Peer Review Workshop Writing Project 3: Wednesday, April 12**
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Working with your class colleagues on peer review is part of participating in this class. There are 3 designated peer workshop days throughout the semester (the dates are listed above). If you choose to participate in the peer review workshops, you will come to class on those days with a **completed** draft of the writing project we are reviewing. You will exchange papers with a partner (or within a small group), and you will read the work of your partner with an eye toward specific conventions we will discuss in class. You will then give your partner written feedback on their draft that they can use in preparing their writing project for submission to me (and they will do the same for you). The specific conventions you will focus on in your peer review will be listed below before each workshop.
 
@@ -30,14 +35,6 @@ You should make every effort to attend each workshop in which you decide to part
 
 If you will miss a peer review workshop you need to attend in order to fulfill your grade contract, please email me to let me know you will be gone, and we will arrange one of the above 3 make-up options. Please note that this may also mean extending the due date for your writing project, depending on what we are able to arrange.
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 ---
 ## Peer Review Workshop Writing Project 1: Monday, Feb 13
 
