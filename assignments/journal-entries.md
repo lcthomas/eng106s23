@@ -19,7 +19,7 @@ Your journal entries will be a place for you to work out your thoughts and confu
 </details>
 ---
 ## Journal Entry 1: Due Friday,  January 27
-Please complete both parts of this journal entry.
+Please complete both parts of this journal entry. This will be your longest/most involved journal entry of the semester.
 
 ### Part A
 In "How to Read Like a Writer," Mike Bunn provides sample questions that you can ask yourself whenever you read a piece of writing to learn how to read like a writer. These questions include:
