@@ -87,7 +87,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Wednesday, April 12: Peer Review Workshop 3
     * **If participating in workshop: Writing Project 3: Research Conversation Essay draft due by class**
 * Friday, April 14: In-class Writing Day
-* Writing Project 3: Research Conversation Essay due
+    * **Writing Project 3: Research Conversation Essay due**
 
 ## Week 14
 * Monday, April 17: Jillian Grauman, “What’s That Supposed to Mean? Using Feedback on Your Writing,” from *Writing Spaces* Vol 4 (2022)
