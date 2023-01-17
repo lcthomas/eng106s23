@@ -40,7 +40,9 @@ The second part of this journal entry involves writing up your grade contract fo
 
 ## Journal Entry 2: Due Friday, February 3
 
-## Journal Entry 3: Due Friday, February 10
+You start a close reading by...reading. very. closely. Repeatedly.
+
+## Journal Entry 3: Due Wednesday, February 8
 
 ## Journal Entry 4: Due Friday, February 24
 
