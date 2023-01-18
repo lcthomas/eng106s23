@@ -5,7 +5,7 @@ nav_order: 3
 parent: Assignments
 ---
 # Writing Project 1: Close Reading Essay
-* **WP 1 first draft for peer review workshop due: Monday, Feb 13 by class (only close reading essay is due at this time)**
+* **WP 1 first draft for peer review workshop due: Monday, Feb 13 by class**
 * **WP 1 due: Friday, Feb 17**
 * **~1000 words (~4 pages double-spaced)**
 * **MLA or Chicago citation style**
