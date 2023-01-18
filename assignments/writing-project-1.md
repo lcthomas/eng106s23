@@ -32,7 +32,8 @@ Writing a successful close reading means: 1) *Observing* the text closely to fin
 In order to be considered "satisfactory", your close reading essay must do the following:
 
 1. Attempt to include an original, central claim that you defend using at least 3 specific passages/direct quotations from *Their Eyes Were Watching God.* You should cite the page numbers on which each passage/direct quotation you cite occurs in the novel.
-2. Attempts at including analysis of these (at least) 3 specific passages/direct quotations from *Their Eyes Were Watching God* in which you explain to your reader how each passage/direct quotation contributes to/proves your central claim.
+2. Attempt to include analysis of these (at least) 3 specific passages/direct quotations from *Their Eyes Were Watching God* in which you explain to your reader how each passage/direct quotation contributes to/proves your central claim.
 3. Meet the word requirement (around 1000 words) without filler.
-4. Include citations of any outside sources (excluding *Their Eyes Were Watching God*). You are not required to do additional research for this essay; in fact, it's probably better to focus only on the words of the literary text itself at this stage, since we haven't yet discussed how to do academic research in this class. But if you do any additional research, please make sure to cite your sources if you take ideas and, especially, direct quotations, from that research.
-5. Include, at the end of the essay, the following statement: "I upheld the Honor Code." Including these words at the end of your essay functions as your digital signature of academic integrity.
+4. Be focused, clear, and well-structured.
+5. Include citations of any outside sources (excluding *Their Eyes Were Watching God*). You are not required to do additional research for this essay; in fact, it's probably better to focus only on the words of the literary text itself at this stage, since we haven't yet discussed how to do academic research in this class. But if you do any additional research, please make sure to cite your sources if you take ideas and, especially, direct quotations, from that research.
+6. Include, at the end of the essay, the following statement: "I upheld the Honor Code." Including these words at the end of your essay functions as your digital signature of academic integrity.
