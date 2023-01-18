@@ -8,7 +8,7 @@ parent: Assignments
 * **See course calendar for due dates**
 * **Turn in via Blackboard**
 {: .no_toc }
-Your journal entries will be a place for you to work out your thoughts and confusions about the course material and to prepare for upcoming assignments. They are also a way to demonstrate that you are keeping up with the course workload. They will vary in length, but they will usually be brief (~1-2 pages). You will write each one in response to a prompt that I will provide, and this page will be updated throughout the semester with the prompts for each journal entry. I will aim to post the prompt for each week a journal entry is due by Sunday evening of that week.
+Your journal entries are a place for you to work out your thoughts and confusions about the course material and to prepare for upcoming assignments. They are also a way to demonstrate that you are keeping up with the course workload. They will vary in length, but they will usually be brief (~1-2 pages). You will write each one in response to a prompt that I will provide, and this page will be updated throughout the semester with the prompts for each journal entry. I will aim to post the prompt for each week a journal entry is due by Sunday evening of that week.
 <details open markdown="block">
   <summary>
     Table of contents
