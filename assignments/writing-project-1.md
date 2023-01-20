@@ -8,7 +8,7 @@ parent: Assignments
 * **WP 1 first draft for peer review workshop due: Monday, Feb 13 by class**
 * **WP 1 due: Friday, Feb 17**
 * **~1000 words (~4 pages double-spaced)**
-* **MLA or Chicago citation style**
+* **Cite direct quotations from the novel using parenthetical citation, e.g.: As Hurston writes, “example quote from Their Eyes Were Watching God” (34).**
 * **Turn in via Blackboard**
 
 Your first major writing project in this class is to write a close reading essay. A close reading essay means an essay in which you make a claim about a literary text based on close textual analysis. For this essay, you are required to write about Hurston's *Their Eyes Were Watching God*.
@@ -32,8 +32,9 @@ Writing a successful close reading means: 1) *Observing* the text closely to fin
 In order to be considered "satisfactory", your close reading essay must do the following:
 
 1. Attempt to include an original, central claim that you defend using at least 3 specific passages/direct quotations from *Their Eyes Were Watching God.* You should cite the page numbers on which each passage/direct quotation you cite occurs in the novel.
-2. Attempt to include analysis of these (at least) 3 specific passages/direct quotations from *Their Eyes Were Watching God* in which you explain to your reader how each passage/direct quotation contributes to/proves your central claim.
-3. Meet the word requirement (around 1000 words) without filler.
-4. Be focused, clear, and well-structured.
-5. Include citations of any outside sources (excluding *Their Eyes Were Watching God*). You are not required to do additional research for this essay; in fact, it's probably better to focus only on the words of the literary text itself at this stage, since we haven't yet discussed how to do academic research in this class. But if you do any additional research, please make sure to cite your sources if you take ideas and, especially, direct quotations, from that research.
+2. Attempt to include analysis of these (at least) 3 specific passages/direct quotations from *Their Eyes Were Watching God* in which you explain to your reader how each passage/direct quotation contributes to/provides evidence of your central claim.
+3. Meet the word requirement (around 1000 words) without significant filler.
+4. Attempt to communicate your ideas in a focused, clear, and well-organized way.
+5. Include citations of any outside sources (excluding *Their Eyes Were Watching God*). You are not required to do additional research for this essay; in fact, it's probably better to focus only on the words of the literary text itself at this stage, since we haven't yet discussed how to do or cite academic research in this class. But if you do any additional research, please make sure to cite your sources if you take ideas and, especially, direct quotations, from that research.
 6. Include, at the end of the essay, the following statement: "I upheld the Honor Code." Including these words at the end of your essay functions as your digital signature of academic integrity.
+7. Include, at the end of the essay, a list of the assignments you have completed in this class, including all journal entries, writing projects, and peer review workshops to date.
