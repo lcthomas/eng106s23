@@ -60,7 +60,7 @@ Go back and read what you wrote for journal entry 2. Then, copy and paste your l
 Your journal entry 3 should include the following things:
 1. 2-3 new observations from the text. As in journal entry 2, each new observation should consist of a direct quote from the novel and then a brief explanation of or question about what you find unexpected, interesting, or puzzling about this observation.
 2. A description of at least one pattern -- or potential pattern -- that at least 2-3 of your observations form. This pattern can be different from the one you wrote about for journal entry 2, or it can represent an update to that pattern. You should write a few sentences (no more than 1 paragraph) about how the observations you've selected fit together (or how they might fit together). These sentences might also include questions that you have about this pattern (or potential pattern). You don't have to fully answer these questions now.
-3. A ~1 paragraph reflection on what you plan to write your close reading essay about. What is your preliminary claim about the text? What pattern or patterns do you think you will use as evidence for this claim?
+3. A ~1 paragraph exploration of what you plan to write your close reading essay about. This reflection should include a statement of your preliminary claim about the text? What pattern or patterns do you think you will use as evidence for this claim?
 
 ### If you did not complete journal entry 2:
 Read through the prompt for [journal entry 2](https://lindsaythomas.net/eng106s23/assignments/journal-entries.html#journal-entry-2-due-friday-february-3){:target="_blank"}. After reading the prompt for journal entry 2, you are ready to begin journal entry 3.
@@ -68,7 +68,7 @@ Read through the prompt for [journal entry 2](https://lindsaythomas.net/eng106s2
 Your journal entry 3 should include the following things:
 1. A list of 5 observations of particular words, phrases, or passages in *Their Eyes Were Watching God* that strike you as unexpected, interesting, or puzzling. Each observation should consist of a direct quote from the novel and then a brief explanation of or question about what you find unexpected, interesting, or puzzling about this observation.
 2. A description of at least one pattern -- or potential pattern -- that at least 2-3 of your observations form. You should write a few sentences (no more than 1 paragraph) about how the observations you've selected fit together (or how they might fit together). These sentences might also include questions that you have about this pattern (or potential pattern). You don't have to fully answer these questions now.
-3. A ~1 paragraph reflection on what you plan to write your close reading essay about. What is your preliminary claim about the text? What pattern or patterns do you think you will use as evidence for this claim?
+3. A ~1 paragraph exploration of what you plan to write your close reading essay about. This reflection should include a statement of your preliminary claim about the text. What pattern or patterns do you think you will use as evidence for this claim?
 
 ## Journal Entry 4: Due Friday, February 24
 
