@@ -21,7 +21,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
     * **Journal entry 1 due (required for everyone)**
 
 ## Week 3
-* Monday, January 30: Zora Neale Hurston, *Their Eyes Were Watching God*, Ch 5-9
+* Monday, January 30: Zora Neale Hurston, *Their Eyes Were Watching God*, Ch 5-9; please also read the [assigment page for Writing Project 1](https://lindsaythomas.net/eng106s23/assignments/writing-project-1.html){:target="_blank"}.
 * Wednesday, February 1 (last day to drop a course without a W): Zora Neale Hurston, *Their Eyes Were Watching God*, Ch. 10-15
 * Friday, February 3: Zora Neale Hurston, *Their Eyes Were Watching God*, catch-up day
     * **Journal entry 2 due**
