@@ -28,7 +28,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 4
 * Monday, February 6: Zora Neale Hurston, *Their Eyes Were Watching God*, Ch 15-20
-* Wednesday, February 8: Eve Dunbar, “What I Learned About Love from Rereading Their Eyes Were Watching God,” PBS (2017), <https://www.pbs.org/wnet/americanmasters/blog/learned-love-rereading-eyes-watching-god/>
+* Wednesday, February 8: Zora Neale Hurston, *Their Eyes Were Watching God*, catch-up day; In-class Assignment Planning and Prep
     * **Journal entry 3 due**
 * Friday, February 10: In-class Assignment Planning and Prep
 

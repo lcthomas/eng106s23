@@ -10,6 +10,7 @@ parent: Assignments
 * **~1000 words (~4 pages double-spaced)**
 * **Cite direct quotations from the novel using parenthetical citation, e.g.: As Hurston writes, “example quote from Their Eyes Were Watching God” (34).**
 * **Turn in via Blackboard**
+    * **If you participated in the peer review workshop, please also turn in the peer review worksheet your reader completed**
 
 Your first major writing project in this class is to write a close reading essay. A close reading essay means an essay in which you make a claim about a literary text based on close textual analysis. For this essay, you are required to write about Hurston's *Their Eyes Were Watching God*.
 
