@@ -51,7 +51,7 @@ Your journal entry 2 is about practicing the above skills. It should include the
 2. A description of at least one pattern -- or potential pattern -- that at least 2-3 of your observations form. You should write a few sentences (no more than 1 paragraph) about how the observations you've selected fit together (or how they might fit together). These sentences might also include questions that you have about this pattern (or potential pattern). You don't have to fully answer these questions now.
 3. A ~1 paragraph reflection on the above process. Feel free to reflect on any of the following questions: What (if anything) was easy for you to do, and why? What (if anything) was hard for you to do, and why? What do you find confusing, vexing, or anxiety-producing about close reading? What do you find interesting or engaging about it? What have you learned about yourself as a close reader so far?
 
-## Journal Entry 3: Due Wednesday, February 8
+## Journal Entry 3: Due Friday, February 10
 This journal entry is designed to help you complete your first major writing assignment in this class: [Writing Project 1](https://lindsaythomas.net/eng106s23/assignments/writing-project-1.html){:target="_blank"}, which is a close reading essay.
 
 ### If you completed journal entry 2:
