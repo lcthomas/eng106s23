@@ -71,8 +71,35 @@ Your journal entry 3 should include the following things:
 3. A ~1 paragraph exploration of what you plan to write your close reading essay about. This reflection should include a statement of your preliminary claim about the text. What pattern or patterns do you think you will use as evidence for this claim?
 
 ## Journal Entry 4: Due Friday, February 24
+This journal entry is designed to help you complete your second major writing assignment in this class: [Writing Project 2](https://lindsaythomas.net/eng106s23/assignments/writing-project-2.html){:target="_blank"}, which is a historical context essay. It focuses on writing a description of your archival object. For this journal entry, you may select any of the materials assigned for class on the following days: Wednesday, Feb 22; Friday, Feb 24; Monday, Feb 27; Wednesday, March 1.
+
+In their essay "At Work in the Archives: Place-Based Research and Writing,” Lynée Lewis Gaillet and Jessica Rose write, "Beginning your research by creating a description of your source will help you understand what you are examining and
+help capture small, easy-to-miss details" (131). This is why we are writing this description. The description of your archival object should include discussion of the physical or material aspects of the object as well as the context of its creation and original use or circulation.
+
+Your journal entry 4 should be around 500 words long. It should include the following things:
+
+1. A description of the physical and/or material aspects of your archival object. To write this description, you might consider the following questions: (**Please note:** We are examining digital representations of archival objects in this class. However, for the purposes of this assignment, you should try to answer these questions about the *actual* physical thing, not its digital representation.)
+    * What kind of thing is your archival object? If it's a text, is it a literary text or some other kind of text? In what genre is it written? If it's not a text, what is it?
+    * Who created or produced it?
+    * When was it originally created or produced? Do we know?
+    * If applicable, what is the size of the physical archival object?
+    * If applicable, what materials or technologies were used in its creation or production?
+    * If applicable, where is the object stored or archived today? Where or how can researchers access it now?
+    * Are there any other unique features or distinguishing characteristics of this object?
+2. A contextualization of the object in which you discuss the conditions of its creation and its original use and/or circulation. To write this contextualization, you might consider the following questions:
+    * How or why was the object originally created or produced?
+    * What was the purpose of its original creation?
+    * For whom was the object originally created? Who was its intended audience? Was it ever published?
+
+Writing this description may require some light additional research about your selected archival object. You can find a lot of information about Hurston and about many of these materials online. You also may wish to consult Chapter 25, Chapter 26, and/or Chapter 27 of Valerie Boyd's biography of Hurston, *Wrapped in Rainbows*, which detail the time in her life around when she wrote *Their Eyes Were Watching God*. I have made these chapters available to you in our Course Readings folder. You should ask me for help if you are having trouble writing this description of your archival object or if you can't find answers to questions you have about it.
 
 ## Journal Entry 5: Due Friday, March 3
+This journal entry is designed to help you complete your second major writing assignment in this class: [Writing Project 2](https://lindsaythomas.net/eng106s23/assignments/writing-project-2.html){:target="_blank"}, which is a historical context essay. It focuses on connecting your archival object to *Their Eyes Were Watching God*.
+
+Your journal entry 5 should be around 500 words long. It can be about the archival object you wrote about in journal entry 4 or about a different archival object. It should include the following things:
+
+1. An explanation of how your archival object relates to *The Eyes Were Watching God*. It could relate to the novel in any number of ways. For example, if you selected recordings of one or several of the songs Hurston collected during her fieldwork in Jacksonville, FL in 1939 as your archival object, you might consider what these songs reveal about everyday Black life in Florida around the time Hurston wrote *Their Eyes Were Watching God*. What specific connections can you draw between these songs and the novel? If you selected Hurston's essay about Florida turpentine workers that she wrote for the Federal Writers Project in 1939 as your archival object, what does this essay reveal about life in the American south for Black workers during the time that Hurston wrote *Their Eyes Were Watching God*? If you selected the letters from Hurston and/or Langston Hughes to Carl Van Vechten in 1930 and 1931 about the play *Mule Bone* as your archival object, what do these letters reveal about Hurston as an ethnographer or author that might be pertinent to *Their Eyes Were Watching God*? Etc.
+2. An analysis of at least 1 specific passage from *Their Eyes Were Watching God* that reveals a relationship to your archival object and/or that your archival object helps us to understand in a different way. You may wish you analyze more than 1 passage from the novel in your journal entry, but you must analyze at least 1.
 
 ## Journal Entry 6: Due Friday, March 31
 
