@@ -42,12 +42,14 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 6
 * Monday, February 20:  Lynée Lewis Gaillet & Jessica Rose, “At Work in the Archives: Place-Based Research and Writing,” from *Writing Spaces* Vol. 4 (2022); please also read the [assigment page for Writing Project 2](https://lindsaythomas.net/eng106s23/assignments/writing-project-2.html){:target="_blank"}.
 * Wednesday, February 22: "Zora Neale Hurston Fieldwork Footage", short film available at the Black Film Archive online, <https://blackfilmarchive.com/Zora-Neale-Hurston-Fieldwork-Footage> (watch on YouTube: <https://www.youtube.com/watch?v=wtPrN-zYZc4>); Zora Neale Hurston, “Turpentine Camp – Cross City” (1939), <https://www.floridamemory.com/learn/classroom/learning-units/zora-neale-hurston/documents/essay/>; Sound recordings by Zora Neale Hurston (1939), <https://www.floridamemory.com/learn/classroom/learning-units/zora-neale-hurston/documents/audio/>; Explore the University of Florida’s Zora Neale Hurston Papers collection (photographs), <https://ufdc.ufl.edu/collections/znhurs/results?filter=collections%3AZora%20Neale%20Hurston%20Papers&filter=mediatype%3APhotograph&page=1>
-* Friday, February 24: Selections from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/resources/990>
+* Friday, February 24: "Harlem Slanguage," from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/archival_objects/363508>; "The Chick with One Hen," from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/archival_objects/363502>
+    * I have made pdf versions of these documents available in our Course Readings folder.
     * **Journal entry 4 due**
 
 ## Week 7
-* Monday, February 27: Zora Neale Hurston, *Mules and Men* (1935), “Foreword” (by Arnold Rampersand), “Introduction,” Ch 1 (pg. xv-17)
-* Wednesday, March 1: Visit to Kislak Center, University of Miami Library
+* Monday, February 27: Correspondence from Zora Neale Hurston to Carl Van Vechten (1930), from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/archival_objects/363495>; Correspondence from Langston Hughes to Carl Van Vechten (1931), from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/archival_objects/363497>
+    * I have made pdf versions of these documents available in our Course Readings folder.
+* Wednesday, March 1: Zora Neale Hurston, *Mules and Men* (1935), “Foreword” (by Arnold Rampersand), “Introduction,” Ch 1 (pg. xv-17)
 * Friday, March 3: In-class Assignment Planning and Prep
     * **Journal entry 5 due**
 
