@@ -34,7 +34,7 @@ In order to be considered "satisfactory", your close reading essay must do the f
 
 1. Attempt to include an original, central claim that you defend using at least 3 specific passages/direct quotations from *Their Eyes Were Watching God.* You should cite the page numbers on which each passage/direct quotation you cite occurs in the novel.
 2. Attempt to include analysis of these (at least) 3 specific passages/direct quotations from *Their Eyes Were Watching God* in which you explain to your reader how each passage/direct quotation contributes to/provides evidence of your central claim.
-3. Meet the word requirement (around 1000 words) without significant filler.
+3. Meet the minimum word requirement (around 1000 words) without significant filler.
 4. Attempt to communicate your ideas in a focused, clear, and well-organized way.
 5. Include citations of any outside sources (excluding *Their Eyes Were Watching God*). You are not required to do additional research for this essay; in fact, it's probably better to focus only on the words of the literary text itself at this stage, since we haven't yet discussed how to do or cite academic research in this class. But if you do any additional research, please make sure to cite your sources if you take ideas and, especially, direct quotations, from that research.
 6. Include, at the end of the essay, the following statement: "I upheld the Honor Code." Including these words at the end of your essay functions as your digital signature of academic integrity.
