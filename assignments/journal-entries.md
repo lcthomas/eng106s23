@@ -96,10 +96,15 @@ Writing this description may require some light additional research about your s
 ## Journal Entry 5: Due Friday, March 3
 This journal entry is designed to help you complete your second major writing assignment in this class: [Writing Project 2](https://lindsaythomas.net/eng106s23/assignments/writing-project-2.html){:target="_blank"}, which is a historical context essay. It focuses on connecting your archival object to *Their Eyes Were Watching God*.
 
-Your journal entry 5 should be around 500 words long. It can be about the archival object you wrote about in journal entry 4 or about a different archival object. It should include the following things:
+Your responses to the first two questions below should comprise around 500 words long. You can write about the archival object you wrote about in journal entry 4 or about a different archival object.
+
+Your journal entry 5 should include the following things:
 
 1. An explanation of how your archival object relates to *The Eyes Were Watching God*. It could relate to the novel in any number of ways. For example, if you selected recordings of one or several of the songs Hurston collected during her fieldwork in Jacksonville, FL in 1939 as your archival object, you might consider what these songs reveal about everyday Black life in Florida around the time Hurston wrote *Their Eyes Were Watching God*. What specific connections can you draw between these songs and the novel? If you selected Hurston's essay about Florida turpentine workers that she wrote for the Federal Writers Project in 1939 as your archival object, what does this essay reveal about life in the American south for Black workers during the time that Hurston wrote *Their Eyes Were Watching God*? If you selected the letters from Hurston and/or Langston Hughes to Carl Van Vechten in 1930 and 1931 about the play *Mule Bone* as your archival object, what do these letters reveal about Hurston as an ethnographer or author that might be pertinent to *Their Eyes Were Watching God*? Etc.
 2. An analysis of at least 1 specific passage from *Their Eyes Were Watching God* that reveals a relationship to your archival object and/or that your archival object helps us to understand in a different way. You may wish you analyze more than 1 passage from the novel in your journal entry, but you must analyze at least 1.
+
+    Finally, your journal entry 5 should include a response to the following question:
+3. Based on the feedback you received on your writing project 1 and/or journal entry 4, what 2 things do you want to focus on improving in your writing project 2? This might include resolving issues with surface conventions (grammar, punctuation, syntax, citations, etc.), working on making a strong interpretive claim, clarifying the organizing of your essay, etc. You can be brief here.
 
 ## Journal Entry 6: Due Friday, March 31
 
