@@ -72,7 +72,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Friday, March 24: Research and Secondary Sources Workshop 1
 
 ## Week 11
-* Monday, March 27: Daphne Lamothe, “Vodou Imagery, African American Tradition and Cultural Transformation in Zora Neale Hurston’s Their Eyes Were Watching God,” *Callaloo* 22.1 (1999): 157-175
+* Monday, March 27: Daphne Lamothe, “Vodou Imagery, African American Tradition and Cultural Transformation in Zora Neale Hurston’s *Their Eyes Were Watching God*,” *Callaloo* 22.1 (1999): 157-175
 * Wednesday, March 29: Lamothe, “Vodou Imagery,” con’t
 * Friday, March 31: Research and Secondary Sources Workshop 2
     * **Journal entry 6 due**
