@@ -96,7 +96,7 @@ Writing this description may require some light additional research about your s
 ## Journal Entry 5: Due Friday, March 3
 This journal entry is designed to help you complete your second major writing assignment in this class: [Writing Project 2](https://lindsaythomas.net/eng106s23/assignments/writing-project-2.html){:target="_blank"}, which is a historical context essay. It focuses on connecting your archival object to *Their Eyes Were Watching God*.
 
-Your responses to the first two questions below should comprise around 500 words long. You can write about the archival object you wrote about in journal entry 4 or about a different archival object.
+Your response to the first two questions below should be around 500 words long. You can write about the archival object you wrote about in journal entry 4 or about a different archival object.
 
 Your journal entry 5 should include the following things:
 
