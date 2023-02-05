@@ -42,7 +42,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 6
 * Monday, February 20:  Lynée Lewis Gaillet & Jessica Rose, “At Work in the Archives: Place-Based Research and Writing,” from *Writing Spaces* Vol. 4 (2022); please also read the [assigment page for Writing Project 2](https://lindsaythomas.net/eng106s23/assignments/writing-project-2.html){:target="_blank"}.
 * Wednesday, February 22: "Zora Neale Hurston Fieldwork Footage", short film available at the Black Film Archive online, <https://blackfilmarchive.com/Zora-Neale-Hurston-Fieldwork-Footage> (watch on YouTube: <https://www.youtube.com/watch?v=wtPrN-zYZc4>); Zora Neale Hurston, “Turpentine Camp – Cross City” (1939), <https://www.floridamemory.com/learn/classroom/learning-units/zora-neale-hurston/documents/essay/>; Sound recordings by Zora Neale Hurston (1939), <https://www.floridamemory.com/learn/classroom/learning-units/zora-neale-hurston/documents/audio/>; Explore the University of Florida’s Zora Neale Hurston Papers collection (photographs), <https://ufdc.ufl.edu/collections/znhurs/results?filter=collections%3AZora%20Neale%20Hurston%20Papers&filter=mediatype%3APhotograph&page=1>
-* Friday, February 24: Selections from the Zora Neale Hurston collection at Yale Archives, <https://archives.yale.edu/repositories/11/resources/990>
+* Friday, February 24: Selections from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/resources/990>
     * **Journal entry 4 due**
 
 ## Week 7
@@ -54,7 +54,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 8
 * Monday, March 6: In-class Assignment Planning and Prep
 * Wednesday, March 8: Peer Review Workshop 2
-    * **If participating in workshop: Writing Project 2: Historical and Cultural Context Essay draft due by class**
+    * **If participating in workshop: Writing Project 2: Historical Context Essay draft due by class**
 * Friday, March 10: NO CLASS
     * **Last-chance due date 1: All outstanding work to date is due**
 
@@ -65,7 +65,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 10
 * Monday, March 20: In-class Writing Day
-    * **Writing Project 2: Historical and Cultural Context Essay due**
+    * **Writing Project 2: Historical Context Essay due**
 * Wednesday, March 22: Rosenberg, “Reading Games: Strategies for Reading Scholarly Sources,” from Writing Spaces Vol 2 (2011)
 * Friday, March 24: Research and Secondary Sources Workshop 1
 
