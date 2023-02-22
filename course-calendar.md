@@ -48,7 +48,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 7
 * Monday, February 27: Correspondence from Zora Neale Hurston to Carl Van Vechten (1930), from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/archival_objects/363495>; Correspondence from Langston Hughes to Carl Van Vechten (1931), from the Zora Neale Hurston Collection at Yale Archives, <https://archives.yale.edu/repositories/11/archival_objects/363497>
-    * I have made pdf versions of these documents available in our Course Readings folder.
+    * I have made a pdf version of these documents available in our Course Readings folder (with transcriptions).
 * Wednesday, March 1: Zora Neale Hurston, *Mules and Men* (1935), “Foreword” (by Arnold Rampersand), “Introduction,” Ch 1 (pg. xv-17)
 * Friday, March 3: In-class Assignment Planning and Prep
     * **Journal entry 5 due**
