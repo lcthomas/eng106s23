@@ -41,7 +41,7 @@ The claim you make in this part of your essay should provide an answer to this q
 ## Writing Project 2 Requirements
 In order to be considered "satisfactory", your historical context essay must do the following:
 
-1. Include a description of your archival object that is specific and thorough but that totals no more than about 500 words.
+1. Include a description of your archival object that is specific, thorough, and correct, but that totals no more than about 500 words.
 2. Make a claim about what your archival object helps us to understand about *Their Eyes Were Watching God*. This claim should attempt to answer the following question: What do we learn from associating your archival object with *Their Eyes Were Watching God*?
 3. Include an explanation of how your archival object relates to *Their Eyes Were Watching God* in which you analyze at least 1 specific passage from *Their Eyes Were Watching God*. Remember, "analyzing" a passage means you explain to your reader how that passage provides evidence for the claim you are making.
 4. Meet the minimum word requirement (around 1500 words) without significant filler.
