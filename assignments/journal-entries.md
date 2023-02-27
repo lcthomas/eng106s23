@@ -106,7 +106,7 @@ Your journal entry 5 should include the following things:
 3. A Works Cited page in which you appropriately cite your selected archival object and *Their Eyes Were Watching God* (and any additional sources) according to MLA format (not included in word count). We will discuss MLA formatting in class on Wednesday, Feb 22 and Friday, Feb 24. You can find a handout in our class Google drive folder (In-Class Activities folder), and you can find in-depth information about how to cite a variety of sources using MLA format on the [OWL Purdue MLA Formatting and Style website](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html){:target="_blank"}.
 
     Finally, your journal entry 5 should include a response to the following question (not included in word count):
-3. Based on the feedback you received on your writing project 1 and/or journal entry 4, what 2 things do you want to focus on improving in your writing project 2? This might include resolving issues with surface conventions (grammar, punctuation, syntax, citations, etc.), working on making a strong interpretive claim, clarifying the organizing of your essay, etc. You can be brief here.
+3. Based on the feedback you received on your writing project 1, what 2 things do you want to focus on improving in your writing project 2? This might include resolving issues with surface conventions (grammar, punctuation, syntax, citations, etc.), working on your argument, contextualizing and explaining the textual examples you provide, clarifying the organizing of your essay, etc. You can be brief here.
 
 
 ## Journal Entry 6: Due Friday, March 31
