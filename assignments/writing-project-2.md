@@ -10,7 +10,7 @@ parent: Assignments
 * **~1500 words (~5-6 pages double-spaced)**
 * **MLA citation style**
 * **Turn in via Blackboard**
-    * **If you participated in the peer review workshop, please also turn in the peer review worksheet your reader completed**
+    * **If you participated in the peer review workshop, please also turn in the peer review worksheet your reader(s) completed**
 
 Your second major writing project in this class is about exploring the historical context of Hurston's *Their Eyes Were Watching God* by investigating additional primary sources from around the time when it was written. You will write an essay in which you describe an archival object that sheds light on this historical context, explain how this object relates to the novel, and make a claim about what this object allows us to understand differently about the novel.
 
