@@ -57,6 +57,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Monday, March 6: In-class Assignment Planning and Prep
 * Wednesday, March 8: Peer Review Workshop 2
     * **If participating in workshop: Writing Project 2: Historical Context Essay draft due by class**
+    * **Please bring a laptop to class today**
 * Friday, March 10: NO CLASS
     * **Last-chance due date 1: All outstanding work to date is due**
 
