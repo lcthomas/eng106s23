@@ -59,7 +59,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
     * **If participating in workshop: Writing Project 2: Historical Context Essay draft due by class**
     * **Please bring a laptop to class today**
 * Friday, March 10: NO CLASS
-    * **Last-chance due date 1: All outstanding work to date is due**
+    * **Last-chance due date 1: Last chance to turn in journal entries 1-5 and writing project 1. These assignments will not be accepted after this date.**
 
 ## Week 9
 * Monday, March 13: NO CLASS – SPRING BREAK
@@ -95,7 +95,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Monday, April 17: Jillian Grauman, “What’s That Supposed to Mean? Using Feedback on Your Writing,” from *Writing Spaces* Vol 4 (2022)
 * Wednesday, April 19: Final portfolio workshop
 * Friday, April 21: In-class Writing Day
-    * **Last-chance due date 2: All remaining outstanding work in class is due**
+    * **Last-chance due date 2: Last chance to turn in journal entries 6-7 and writing projects 2 and 3. These assignments will not be accepted after this date.**
 
 ## Week 15
 * Monday, April 24: Final portfolio workshop
