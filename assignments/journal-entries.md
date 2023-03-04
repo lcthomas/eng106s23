@@ -122,7 +122,7 @@ Your journal entry 6 should include the following things:
 3. Under each citation, include the following information about each source:
     - A brief description (no more than 3-4 sentences) of how that source relates to your research topic.
     - A brief description (no more than 2-3 sentences) of how you found that scholarly source (e.g., "I mined the bibliography of Lamothe's article," or "I found this source by searching through the scholarly sources that have cited Lamothe's article," or "I found this source by searching for the keywords 'Their Eyes Were Watching God' and 'religion' in the *Project Muse* database", etc.).
-4. An indication of which 2 scholarly sources you are planning to write about in journal entry 5 and in writing project 3 (you can change your mind). Again, one of these can be one of the scholarly sources we read in class (Lamothe or Mitchell), if you so choose.
+4. An indication of which 2 scholarly sources you are planning to write about in journal entry 7 and in writing project 3 (you can change your mind). Again, one of these can be one of the scholarly sources we read in class (Lamothe or Mitchell), if you so choose.
 
 Please note that I do not expect you to read through all 5 of the scholarly sources you find for this assignment! In fact, this assignment is geared toward helping you to learn how to **skim** scholarly sources quickly and efficiently to see if they are related to your research topic. We will talk about how to skim scholarly sources in class when we discuss Rosenberg's essay, "Reading Games: Strategies for Reading Scholarly Sources" on Wednesday, March 22.
 
