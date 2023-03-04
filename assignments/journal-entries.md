@@ -109,5 +109,28 @@ Your journal entry 5 should include the following things:
 3. Based on the feedback you received on your writing project 1, what 2 things do you want to focus on improving in your writing project 2? This might include resolving issues with surface conventions (grammar, punctuation, syntax, citations, etc.), working on your argument, contextualizing and explaining the textual examples you provide, clarifying the organization of your essay, etc. You can be brief here.
 
 ## Journal Entry 6: Due Friday, March 31
+This journal entry is designed to help you complete your third major writing assignment in this class: [Writing Project 3](https://lindsaythomas.net/eng106s23/assignments/writing-project-3.html){:target="_blank"}, which is a research conversation essay. It focuses on discovering and selecting the scholarly sources you will write about in this writing project.
+
+Your journal entry 6 should include the following things:
+
+1. A 1-2 sentence description of your research topic for this project.
+    - For this writing project, your research topic should be focused in some way on Zora Neale Hurston's writing. It should be specific and focused enough so that the scholarly sources you collect have ideas and concepts in common, but not so specific that it becomes too difficult to find related scholarship. For example, your topic might be something like "scholarship that focuses on the depiction of women in *Their Eyes Were Watching God*." This topics is specific yet broad enough that you are likely to find many related scholarly sources. However, a topic such as "scholarship about *Their Eyes Were Watching God*" is probably too broad; a quick look in Google scholar confirms that the novel has been cited *at least* 3300 times. Conversely, "scholarship that discusses Janie's hair in *Their Eyes Were Watching God*" is likely to be too specific as a topic. Selecting a topic that is too specific will make it too difficult to find related scholarship, while selecting a topic that is too broad will make it difficult to determine which sources you want to investigate further.
+2. Properly formatted citations in MLA style for 5 scholarly sources that are related to your research topic. At least one of these sources must have been published in the past 10-15 years. One of these sources can be one of the scholarly sources we read in class (Lamothe or Mitchell), if you so choose.
+    - Remember, as the [Writing Project 3](https://lindsaythomas.net/eng106s23/assignments/writing-project-3.html){:target="_blank"} assignment page states, a scholarly source is a source that:
+        - Is written by an expert or experts in the topic under investigation. Usually, this will mean that they have a PhD in a discipline related to this topic and that they are employed by a university, but this is not always the case.
+        - Is published in a venue that focuses on academic research and scholarship and whose primary audience is other researchers and scholars. Usually, this will be an academic journal, or a book or an edited collection published by a university press, but this is not always the case.
+3. Under each citation, include the following information about each source:
+    - A brief description (no more than 3-4 sentences) of how that source relates to your research topic.
+    - A brief description (no more than 2-3 sentences) of how you found that scholarly source (e.g., "I mined the bibliography of Lamothe's article," or "I found this source by searching through the scholarly sources that have cited Lamothe's article," or "I found this source by searching for the keywords 'Their Eyes Were Watching God' and 'religion' in the *Project Muse* database", etc.).
+4. An indication of which 2 scholarly sources you are planning to write about in journal entry 5 and in writing project 3 (you can change your mind). Again, one of these can be one of the scholarly sources we read in class (Lamothe or Mitchell), if you so choose.
+
+Please note that I do not expect you to read through all 5 of the scholarly sources you find for this assignment! In fact, this assignment is geared toward helping you to learn how to **skim** scholarly sources quickly and efficiently to see if they are related to your research topic. We will talk about how to skim scholarly sources in class when we discuss Rosenberg's essay, "Reading Games: Strategies for Reading Scholarly Sources" on Wednesday, March 22.
 
 ## Journal Entry 7: Due Friday, April 7
+This journal entry is designed to help you complete your third major writing assignment in this class: [Writing Project 3](https://lindsaythomas.net/eng106s23/assignments/writing-project-3.html){:target="_blank"}, which is a research conversation essay. It focuses on identifying and analyzing a shared concept or idea that cuts across both of the scholarly sources you selected in journal entry 6.
+
+Your journal entry 7 should be at least 500 words long. It should include the following things:
+
+1. A clear articulation of one shared concept or idea that cuts across both of your scholarly sources.
+2. Analysis of how each of your selected scholarly sources grapples with this shared concept or idea, including how these sources approach this shared concept or idea **differently**. Your analysis must include at least 1 quote from each scholarly source that relates to this shared concept or idea (this is a minimum).
+3. Properly formatted parenthetical citations of the two scholarly sources you use in writing your journal entry, making sure to cite the page numbers on which any quotations you use appear. This also includes a Works Cited page with correctly formatted citations of each source cited in your essay.
