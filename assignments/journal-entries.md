@@ -129,8 +129,9 @@ Please note that I do not expect you to read through all 5 of the scholarly sour
 ## Journal Entry 7: Due Friday, April 7
 This journal entry is designed to help you complete your third major writing assignment in this class: [Writing Project 3](https://lindsaythomas.net/eng106s23/assignments/writing-project-3.html){:target="_blank"}, which is a research conversation essay. It focuses on identifying and analyzing a shared concept or idea that cuts across both of the scholarly sources you selected in journal entry 6.
 
-Your journal entry 7 should be at least 500 words long. It should include the following things:
+Your journal entry 7 should be at least 500 words long (not including your response to \#5 below). It should include the following things:
 
 1. A clear articulation of one shared concept or idea that cuts across both of your scholarly sources.
 2. Analysis of how each of your selected scholarly sources grapples with this shared concept or idea, including how these sources approach this shared concept or idea **differently**. Your analysis must include at least 1 quote from each scholarly source that relates to this shared concept or idea (this is a minimum).
 3. Properly formatted parenthetical citations of the two scholarly sources you use in writing your journal entry, making sure to cite the page numbers on which any quotations you use appear. This also includes a Works Cited page with correctly formatted citations of each source cited in your essay.
+4. Based on the feedback you received on writing projects 1 and/or 2, what 2 things do you want to focus on improving in your writing project 3? This might include resolving issues with surface conventions (grammar, punctuation, syntax, citations, etc.), working on your analysis, contextualizing and explaining the textual examples you provide, clarifying the organization of your essay, etc. You can be brief here.
