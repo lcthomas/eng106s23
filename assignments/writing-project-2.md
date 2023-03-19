@@ -6,7 +6,7 @@ parent: Assignments
 ---
 # Writing Project 2: Historical Context Essay
 * **WP 2 first draft for peer review workshop due: Wednesday, March 8 by class**
-* **WP 2 due: Wednesday, March 22**
+* **WP 2 due: Wednesday, March 20**
 * **~1500 words (~4-5 pages double-spaced)**
 * **MLA citation style**
 * **Turn in via Blackboard**
