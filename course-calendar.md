@@ -67,9 +67,10 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Friday, March 17: NO CLASS – SPRING BREAK
 
 ## Week 10
-* Monday, March 20: In-class Writing Day
-    * **Writing Project 2: Historical Context Essay due**
+* Monday, March 20: In-class Writing Day: CLASS CANCELLED!
+    * **~~Writing Project 2: Historical Context Essay due~~**
 * Wednesday, March 22: Rosenberg, “Reading Games: Strategies for Reading Scholarly Sources,” from Writing Spaces Vol 2 (2011)
+    * **Writing Project 2: Historical Context Essay due**
 * Friday, March 24: Research and Secondary Sources Workshop 1
 
 ## Week 11
