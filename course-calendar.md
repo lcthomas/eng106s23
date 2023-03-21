@@ -69,7 +69,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 10
 * Monday, March 20: In-class Writing Day: CLASS CANCELLED!
 * Wednesday, March 22: Rosenberg, “Reading Games: Strategies for Reading Scholarly Sources,” from Writing Spaces Vol 2 (2011); please also read [the Writing Project 3 assignment page](https://lindsaythomas.net/eng106s23/assignments/writing-project-3.html)
-    * Writing Project 2: Historical Context Essay due
+    * **Writing Project 2: Historical Context Essay due**
 * Friday, March 24: Research and Secondary Sources Workshop 1
 
 ## Week 11
