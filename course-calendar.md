@@ -92,19 +92,19 @@ I reserve the right to change the course calendar as needed; adequate advance no
     * **Writing Project 3: Research Conversation Essay due**
 
 ## Week 14
-* Monday, April 17: Jillian Grauman, “What’s That Supposed to Mean? Using Feedback on Your Writing,” from *Writing Spaces* Vol 4 (2022)
+* Monday, April 17: Final portfolio workshop
 * Wednesday, April 19: Final portfolio workshop
-* Friday, April 21: In-class Writing Day
+* Friday, April 21: Final portfolio workshop
     * **Last-chance due date 2: Last chance to turn in journal entries 6-7 and writing projects 2 and 3. These assignments will not be accepted after this date.**
-
-## Week 15
-* Monday, April 24: Final portfolio workshop
-* Wednesday, April 26: Final portfolio workshop
-* Friday, April 28: In-class Writing Day
     * Course evaluations
 
+## Week 15
+* Monday, April 24: NO CLASS -- Individual meetings
+* Wednesday, April 26: NO CLASS -- Individual meetings
+* Friday, April 28: NO CLASS -- Individual meetings
+
 ## Week 16
-* Monday, May 1: NO CLASS – Office hours during class
+* Monday, May 1: NO CLASS – Individual meetings
 
 ## Wednesday, May 3
 * **Final Portfolio and Self-Assessment due**
