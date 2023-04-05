@@ -82,6 +82,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 * Monday, April 3: Mitchell, “Zora’s Politics: A Brief Introduction,” *Journal of Transnational American Studies* 5.1 (2013)
 * Wednesday, April 5: Mitchell, “Zora’s Politics,” con’t
 * Friday, April 7: In-class Assignment Planning and Prep
+    * Please bring to class at least 1 of the academic sources you will be writing about in journal entry 7/WP3
     * **Journal entry 7 due**
 
 ## Week 13
