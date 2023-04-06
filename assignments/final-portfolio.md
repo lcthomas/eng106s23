@@ -32,7 +32,7 @@ The essay(s) you choose to include in your final portfolio should undergo **subs
 In order to make "substantial revisions" to your essays, you will likely complete some combination of 2 or more of the above options for each essay (there are also likely other options and other changes you could make to your essays not described above).
 
 ## Meeting with Me
-One of the requirements of the final portfolio is to meet with me one-on-one to develop a revision plan and/or talk about your progress in revising your essays. I will hold these 30-minute meetings beginning on Thursday, April 20 and running through Monday, May 1. [Please click here to schedule your meeting with me using Calendly.](https://calendly.com/lcthomas/final-portfolio-conference?month=2023-04){:target="_blank"}
+One of the requirements of the final portfolio is to meet with me one-on-one to develop a revision plan and/or talk about your progress in revising your essays. I will hold these 30-minute meetings beginning on Thursday, April 20 and running through Monday, May 1. [Please click here to schedule your meeting with me using Calendly.](https://calendly.com/lcthomas/final-portfolio-conference?month=2023-04){:target="_blank"} If *none* of the available times listed on Calendly work for you, email me with the times and days that do, and we will work something out. These meetings will happen in my office (Ashe 307).
 
 You should bring or be able to access copies of the essay(s) you want to revise for your final portfolio with my comments to this meeting. We will go over my feedback, talk about a revision plan and what constitutes "substantial revision" in your case, and you will have the opportunity to ask me questions and seek clarification on anything you don't understand.
 
