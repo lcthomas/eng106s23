@@ -36,7 +36,7 @@ One of the requirements of the final portfolio is to meet with me one-on-one to 
 
 You should bring or be able to access copies of the essay(s) you want to revise for your final portfolio with my comments to this meeting. We will go over my feedback, talk about a revision plan and what constitutes "substantial revision" in your case, and you will have the opportunity to ask me questions and seek clarification on anything you don't understand.
 
-It is your responsibility to schedule and attend this meeting. If something comes up and you need to reschedule your meeting, please reschedule it using the Calendly link above. Meeting with me about your final portfolio is a requirement in order for your portfolio to be considered "satisfactory."
+It is your responsibility to schedule and attend this meeting. If something comes up and you need to reschedule your meeting, please let me know and reschedule it using the Calendly link above (and I will let you know if something comes up for me and I need to reschedule). Meeting with me about your final portfolio is a requirement in order for your portfolio to be considered "satisfactory."
 
 ## Writing Your Final Self-Assessment
 You will also write a self-assessment in which you discuss the major revisions you made to each essay included in your final portfolio, why you made these revisions, how this demonstrates your learning in this course, and an evaluation of your performance over the course of the semester. This self-assessment should be about 750ish-1500ish words (~2.5-4.5 pages double-spaced). If you include 1 essay in your final portfolio, this self-assessment will likely be on the shorter side; if you include 2, it will likely be on the longer side.
