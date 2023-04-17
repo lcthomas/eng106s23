@@ -94,8 +94,11 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 14
 * Monday, April 17: Final portfolio workshop
+    * Please bring or be able to access 1 of the writing projects you will revise for your final portfolio (with my comments) to class
 * Wednesday, April 19: Final portfolio workshop
+    * Please bring or be able to access 1 of the writing projects you will revise for your final portfolio (with my comments) to class
 * Friday, April 21: Final portfolio workshop
+    * Please bring or be able to access 1 of the writing projects you will revise for your final portfolio (with my comments) to class
     * **Last-chance due date 2: Last chance to turn in journal entries 6-7 and writing projects 2 and 3. These assignments will not be accepted after this date.**
     * Course evaluations
 

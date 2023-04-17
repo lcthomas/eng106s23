@@ -10,6 +10,8 @@ parent: Assignments
 * **MLA style**
 * **Turn in via Blackboard**
 
+Schedule your final portfolio meeting with me using this link: <https://calendly.com/lcthomas/final-portfolio-conference?month=2023-04>
+
 Your final portfolio in this class is a collection of 1-2 revised writing project essay(s) that you have written in this class over the course of the semester, along with a final self-assessment (~2.5-4.5 double-spaced pages). Completing your final portfolio gives you the opportunity to revisit your writing, to revise it, and to reflect on your writing process and on yourself as a writer. The essay(s) you submit as part of your final portfolio should represent your best work of the semester.
 
 All final portfolios will include your revised essay(s) as well as a final self-assessment (~2.5-4.5 pages) in which you discuss the major revisions you made to each essay and why you made them. You are also required to meet with me one-on-one to discuss your plans to revise your essay(s) based on the feedback I and others in the class have given you.
