@@ -5,7 +5,7 @@ nav_order: 6
 parent: Assignments
 ---
 # Final Portfolio
-* **Due: Monday, May 3**
+* **Due: Wednesday, May 3**
     * **The absolute last day to turn in your final portfolio and your final self-assessment is May 10. After this date, I will not accept this assignment.**
 * **MLA style**
 * **Turn in via Blackboard**
